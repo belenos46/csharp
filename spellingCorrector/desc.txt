@@ -1,0 +1,4 @@
+See Peter Norvig's post here:
+http://norvig.com/spell-correct.html
+
+I'm probably not going to improve on Norvig, but it'll be a good excercise. 
