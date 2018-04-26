@@ -1,6 +1,10 @@
 Start with a console application
 Add persistance with a file (XML?)
 Add persistance with a database
+  MSSQL
+  MySQL
+  MariaDB
+  Redis
 Build out Windows Forms application with the backend logic of the console application
 Build out ASP application with the same functionality
 Build out MVC application with the same functionality
